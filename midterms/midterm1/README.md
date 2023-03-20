@@ -1,12 +1,15 @@
 #Instalation
 You need to install Go
 After go insatalation you need to:
+
+Write it ti clone repo:
 ``` 
- git clone https://github.com/adimash1337/INF-368-Golang.git
+    terminal: git clone https://github.com/adimash1337/INF-368-Golang.git
 ``` 
+To change directory:
 
 ```
-cd midterms && cd midterm1 && cd src(code)
+cd midterms/midterm1/src(code)
 ``` 
 ``` 
 go run main.go
