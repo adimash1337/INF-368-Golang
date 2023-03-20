@@ -1,5 +1,5 @@
 # Instalation
-## Follow instrauctions below:
+## Follow instructions below:
 
 Write it ti clone repo:
 ``` 
