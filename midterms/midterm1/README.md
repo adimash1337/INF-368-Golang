@@ -11,6 +11,8 @@ To change directory:
 ```
 cd midterms/midterm1/src(code)
 ``` 
+
+To deploy:
 ``` 
 go run main.go
 ``` 
