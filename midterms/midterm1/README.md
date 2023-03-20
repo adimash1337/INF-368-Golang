@@ -1,5 +1,5 @@
 # Instalation
-You need to install Go
+## You need to install Go
 After go insatalation you need to:
 
 Write it ti clone repo:
